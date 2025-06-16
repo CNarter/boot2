@@ -7,6 +7,9 @@ body {   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-
         width: 150px;
         display: inline-block;
     }
+    .inputarea {
+        margin-bottoom: 20px;
+    }
 
     a{
         text-decoration:none;
@@ -27,6 +30,6 @@ body {   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-
            .container > div {
         margin: 20px;
 }
-    .eg{}
+   
     }
     
